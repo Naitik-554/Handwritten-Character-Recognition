@@ -37,7 +37,7 @@ The goal is to recognize handwritten characters and compare the performance of t
 
 1. **Clone the repository**:
     ```sh
-    git clone 
+    git clone https://github.com/Naitik-554/Handwritten-Character-Recognition.git
     cd OCR-implementation-using-KNN-ANN-CNN
     ```
 
